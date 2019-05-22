@@ -1,0 +1,36 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/45968eff/
+app	server.js	/^const app = express();$/;"	C
+author	package.json	/^	"author": "Pam",$/;"	s
+bcryptjs	package.json	/^		"bcryptjs": "^2.4.3",$/;"	s	object:dependencies
+bugs	package.json	/^	"bugs": {$/;"	o
+concurrently	package.json	/^		"concurrently": "^4.1.0",$/;"	s	object:devDependencies
+config	package.json	/^		"config": "^3.1.0",$/;"	s	object:dependencies
+dependencies	package.json	/^	"dependencies": {$/;"	o
+description	package.json	/^	"description": "Socia network for developers",$/;"	s
+devDependencies	package.json	/^	"devDependencies": {$/;"	o
+express	package.json	/^		"express": "^4.17.0",$/;"	s	object:dependencies
+express	server.js	/^const express = require('express');$/;"	C
+express-validator	package.json	/^		"express-validator": "^5.3.1",$/;"	s	object:dependencies
+gravatar	package.json	/^		"gravatar": "^1.8.0",$/;"	s	object:dependencies
+homepage	package.json	/^	"homepage": "https:\/\/github.com\/japarado\/devconnector#readme",$/;"	s
+jsonwebtoken	package.json	/^		"jsonwebtoken": "^8.5.1",$/;"	s	object:dependencies
+license	package.json	/^	"license": "MIT",$/;"	s
+main	package.json	/^	"main": "server.js",$/;"	s
+mongoose	package.json	/^		"mongoose": "^5.5.10",$/;"	s	object:dependencies
+name	package.json	/^	"name": "devconnector",$/;"	s
+nodemon	package.json	/^		"nodemon": "^1.19.0"$/;"	s	object:devDependencies
+repository	package.json	/^	"repository": {$/;"	o
+request	package.json	/^		"request": "^2.88.0"$/;"	s	object:dependencies
+scripts	package.json	/^	"scripts": {$/;"	o
+server	package.json	/^		"server": "nodemon server"$/;"	s	object:scripts
+start	package.json	/^		"start": "node server",$/;"	s	object:scripts
+type	package.json	/^		"type": "git",$/;"	s	object:repository
+url	package.json	/^		"url": "git+https:\/\/github.com\/japarado\/devconnector.git"$/;"	s	object:repository
+url	package.json	/^		"url": "https:\/\/github.com\/japarado\/devconnector\/issues"$/;"	s	object:bugs
+version	package.json	/^	"version": "1.0.0",$/;"	s
