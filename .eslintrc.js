@@ -30,8 +30,12 @@ module.exports = {
 			"always"
 		],
 		"brace-style": [
-			"error"
-			"allman",
+			"error",
+			"allman"
+		],
+		"comma-dangle": [
+			"warn",
+			"always"
 		]
 	}
 };
