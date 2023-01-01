@@ -19,7 +19,7 @@
 	"homepage": "https://github.com/japarado/devconnector#readme",
 	"dependencies": {
 		"bcryptjs": "^2.4.3",
-		"config": "^3.1.0",
+		"config": "^3.3.8",
 		"eslint": "^5.16.0",
 		"eslint-plugin-node": "^9.0.1",
 		"express": "^4.17.0",
